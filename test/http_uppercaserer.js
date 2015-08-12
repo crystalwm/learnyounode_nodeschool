@@ -3,20 +3,35 @@
  */
 
 var http=require('http');
+var querystring=require('querystring');
 
 var server=http.createServer(function(req,res){
-    /*ÇëÇó·½·¨£ºreq.method µÃµ½·½·¨Ãû³Æ
+    /*ï¿½ï¿½ï¿½ó·½·ï¿½ï¿½ï¿½req.method ï¿½Ãµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     * */
-    /*ÇëÇóÖ÷Ìå£º
-    ¶ÔÓÚdataÊÂ¼þ½øÐÐ¼àÌý
+    /*ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½å£º
+    ï¿½ï¿½ï¿½ï¿½dataï¿½Â¼ï¿½ï¿½ï¿½ï¿½Ð¼ï¿½ï¿½ï¿½
     * */
-    var receive_data="";
+    var recive_data="";
+    var send_data={};
+
+
     req.setEncoding('utf-8');
-    req.on('data',function(chunked){
-        receive_data+=chunked;
+    req.on('data', function (chunk) {
+
+        recive_data=querystring.parse(chunk);
+
+        for(var p in recive_data){
+            send_data[p]=recive_data[p].toUpperCase();
+        }
+    }) ;
+    req.on('end', function () {
+        res.writeHead(200,{'content-type':'text/plain;charset=UTF-8'});
+        res.write(JSON.stringify(send_data));
+        res.end();
+
     });
 
-    console.log(receive_data);
+
 });
 
 server.listen(8080);

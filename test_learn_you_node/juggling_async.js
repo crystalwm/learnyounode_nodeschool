@@ -10,18 +10,20 @@ var bl = new BufferList();
 
 var result=[];
 
+/*
 url.forEach(function(value,index){
     http.get(value,function(res){
 
-        var bl = new BufferList();
-        console.log(value);
+        var bl=[];
 
         res.on('data',function(chunked){
-            bl.append(chunked);
+            bl.push(chunked);
 
         });
         res.on('end',function(){
-            result.push(bl);
+            result.push(Buffer.concat(bl));
+            console.log(value);
+            console.log(result);
         });
 
 
@@ -29,13 +31,33 @@ url.forEach(function(value,index){
 
         if(count==3){
             printResutl();
+            console.log('result');
         }
     });
 });
+*/
 
 function printResutl(){
     result.forEach(function(value,index){
         console.log(value.toString());
     });
 }
+
+for(var i=0;i<3;i++){
+    var value=url[i];
+    http.get(value,function(res){
+        var bl=[];
+        res.on('data',function(chunked){
+            bl.push(chunked);
+        });
+        res.on('end',function(){
+            result.push(Buffer.concat(bl));
+            count++;
+            if(count==3){
+                printResutl();
+            }
+        });
+    });
+}
+
 

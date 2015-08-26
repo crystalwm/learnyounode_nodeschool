@@ -21,6 +21,7 @@ http.get('http://www.qq.com',function(res){
        // console.log(iconv.decode(bl,'gb2312'));
      //   var buf=Buffer.concat(res,size);
       var buf=Buffer.concat(result);
+        console.log(buf);
         console.log(iconv.decode(buf,'gb2312'));
     });
 

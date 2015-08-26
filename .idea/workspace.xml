@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebcdd498-350a-425e-af81-bc888a88e22d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_async/async_each/async_each.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_async/async_each/async_map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_async/async_each/async_reduce_client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_async/async_each/async_reduce_server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_async/async_each/async_series.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_async/async_each/async_times_client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_async/async_each/async_times_server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_async/async_each/async_waterfall.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_npm/install_npm_01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_async/async_each/sync_whilst_client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_async/async_each/sync_whilst_server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_async/public/test_filename.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_how_to_npm/test_install_npm_01.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\http_collect.js" afterPath="$PROJECT_DIR$/test_learn_you_node/http_collect.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\http_file_server.js" afterPath="$PROJECT_DIR$/test_learn_you_node/http_file_server.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\http_json_api_server.js" afterPath="$PROJECT_DIR$/test_learn_you_node/http_json_api_server.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\http_uppercaserer.js" afterPath="$PROJECT_DIR$/test_learn_you_node/http_uppercaserer.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\juggling_async.js" afterPath="$PROJECT_DIR$/test_learn_you_node/juggling_async.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\my_first_async_io.js" afterPath="$PROJECT_DIR$/test_learn_you_node/my_first_async_io.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\test.js" afterPath="$PROJECT_DIR$/test_learn_you_node/test.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\test111.js" afterPath="$PROJECT_DIR$/test_learn_you_node/test111.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\test_http_client.js" afterPath="$PROJECT_DIR$/test_learn_you_node/test_http_client.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\test_modules.js" afterPath="$PROJECT_DIR$/test_learn_you_node/test_modules.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\testprocess.js" afterPath="$PROJECT_DIR$/test_learn_you_node/testprocess.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\time_server.js" afterPath="$PROJECT_DIR$/test_learn_you_node/time_server.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\time_server_request.js" afterPath="$PROJECT_DIR$/test_learn_you_node/time_server_request.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test\发起一个post请求.js" afterPath="$PROJECT_DIR$/test_learn_you_node/发起一个post请求.js" />
-    </list>
+    <list default="true" id="ebcdd498-350a-425e-af81-bc888a88e22d" name="Default" comment="" />
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -549,27 +519,33 @@
       <option name="project" value="LOCAL" />
       <updated>1440073049006</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="async包的一些方法的学习&#10;">
+      <created>1440574395758</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1440574395758</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20937042" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21069182" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32232705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32232705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5204403" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -595,7 +571,8 @@
     <MESSAGE value="http模块" />
     <MESSAGE value="async" />
     <MESSAGE value="buffer&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="buffer&#10;" />
+    <MESSAGE value="async包的一些方法的学习&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="async包的一些方法的学习&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -842,6 +819,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -849,6 +829,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.61616164">
           <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -856,6 +837,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36363637">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -863,6 +845,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -870,6 +853,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -877,6 +861,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13636364">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>

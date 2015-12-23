@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
-    <file url="file://$PROJECT_DIR$/http协议/80端口.js" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/http协议/cookie的使用.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/networkprogram/http协议/80端口.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/networkprogram/http协议/cookie的使用.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/networkprogram/test_learn_you_node/http_uppercaserer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/networkprogram/test_learn_you_node/juggling_async.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/networkprogram/test_learn_you_node/发起一个post请求.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/routes/index.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test_how_to_async/async_each/async_times_client.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test_how_to_npm/install_npm_01.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test_how_to_npm/test_install_npm_01.js" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/test_learn_you_node/http_uppercaserer.js" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/test_learn_you_node/juggling_async.js" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/test_learn_you_node/发起一个post请求.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/测试/test/data-file.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/测试/test/web-file.js" charset="UTF-8" />
   </component>

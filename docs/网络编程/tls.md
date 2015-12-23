@@ -3,8 +3,27 @@
 ### SSL/TLS协议简介
 #### SSL
 Secure Socket Layer（安全套结层）
+在网景公司的NetScape浏览器推出之初就提出了（SSL安全套接层）
+**SSL的功能**
+SSL作为一种安全协议，它在传输层提供对网络连接加密的功能。
+
 #### TLS
 Transport Layer Security（传输安全层）
+**SSL与TLS之间的关系**
+最初的SSL应用在web上，被服务器端和浏览器端同时支持，随后IETF将其标准化，成为TLS(传输安全层)
+
+#### 密钥
+对于这个不封的内容大致都能理解
+
+#### 数字证书
+**为什么要引用证书**
+客户端与服务器端通信的时候，可能会遇到`中间人攻击`，这个时候我们需要对于身份进行验证。
+
+**CA**
+CA(Certification Authority 数字证书认证中心)
+CA机构颁发证书的流程
+第一步：服务器通过自己的`私钥`生成CSR（证书签名请求）文件
+第二步：ca机构依据这个csf文件颁发服务器端的签名证书
 
 ### 握手流程
 1.客户端对HTTPS的地址发出请求，并且将自己的SSL版本号等信息发送给服务器
@@ -39,3 +58,4 @@ tls.createSecurePair 返回一个SecurePair类
 参考文献：
 http://nodejs.cn/api/tls.html
 http://segmentfault.com/a/1190000002630688
+《深入浅出node》

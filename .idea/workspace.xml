@@ -2,88 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebcdd498-350a-425e-af81-bc888a88e22d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networkprogram/https_example/demo/TLS_Server/TLS_Server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/网络编程/log.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networkprogram/https_example/demo/TLS_Server/keys/ca/my-root-ca.crt.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networkprogram/https_example/demo/TLS_Server/keys/ca/my-root-ca.key.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networkprogram/https_example/demo/TLS_Server/keys/server/my-server.crt.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/networkprogram/https_example/demo/TLS_Server/keys/server/my-server.key.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/网络编程/网络编程.md" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\https_example\src\nodejs-ssl-example" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\example\boolean_double.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\example\divide.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\example\nonopt.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\node_modules\wordwrap\example\meat.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\node_modules\wordwrap\test\break.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\test\_.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\test\_\argv.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\test\_\bin.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\test\parse.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\node_modules\optimist\test\usage.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\test\compress\concat-strings.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\test\compress\issue-12.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\test\compress\issue-126.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\test\compress\issue-143.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\test\compress\issue-269.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\test\compress\labels.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\test\compress\properties.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\test\mozilla-ast.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\constantinople\node_modules\uglify-js\test\run-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\mkdirp\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\monocle\node_modules\readdirp\node_modules\minimatch\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\monocle\node_modules\readdirp\node_modules\minimatch\benchmark.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\node_modules\optimist\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\node_modules\optimist\example\bool.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\node_modules\optimist\example\boolean_single.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\node_modules\optimist\example\line_count_wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\node_modules\optimist\example\reflect.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\node_modules\optimist\example\usage-options.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\node_modules\optimist\node_modules\wordwrap\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\node_modules\optimist\node_modules\wordwrap\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\node_modules\optimist\node_modules\wordwrap\test\break.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\node_modules\optimist\node_modules\wordwrap\test\idleness.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\node_modules\optimist\test\_\bin.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\test\compress\arrays.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\test\compress\conditionals.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\test\compress\issue-12.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\test\compress\issue-126.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\test\compress\issue-143.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\test\compress\issue-22.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\test\compress\issue-269.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\test\compress\labels.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\test\compress\loops.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\test\compress\sequences.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\test\compress\typeof.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\WebStorm9.0.2\learnnode\node_modules\jade\node_modules\with\node_modules\uglify-js\test\run-tests.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/测试.docx" afterPath="$PROJECT_DIR$/docs/测试.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/进击Node.js基础(二)/Buffer.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/进击Node.js基础(二)/笔记.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc/进击NodeJS基础2/asyncprogramming/异步编程的原因/callback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc/进击NodeJS基础2/asyncprogramming/异步编程的原因/promise.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/cheerio/demo1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version1/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version2/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version3/http.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/https_example/src/nodejs-ssl-example" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/boolean_double.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/divide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/nonopt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/example/meat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/break.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/test/_.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/test/_/argv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/test/_/bin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/test/usage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/boolean_single.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/line_count_wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/reflect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/usage-options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/break.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/idleness.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/test/_/bin.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/网络编程/https简介.md" afterPath="$PROJECT_DIR$/docs/网络编程/https简介.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/网络编程/tls.md" afterPath="$PROJECT_DIR$/docs/网络编程/tls.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\docs\img\ssltls_1.png" afterPath="$PROJECT_DIR$/docs/网络编程/img/ssltls_1.png" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\http协议\80端口.js" afterPath="$PROJECT_DIR$/networkprogram/http协议/80端口.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\http协议\cookie的使用.js" afterPath="$PROJECT_DIR$/networkprogram/http协议/cookie的使用.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\http协议\toms\tom.js" afterPath="$PROJECT_DIR$/networkprogram/http协议/toms/tom.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\http协议\url_test.js" afterPath="$PROJECT_DIR$/networkprogram/http协议/url_test.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\http协议\测试cookie.js" afterPath="$PROJECT_DIR$/networkprogram/http协议/测试cookie.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\http_collect.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/http_collect.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\http_file_server.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/http_file_server.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\http_json_api_server.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/http_json_api_server.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\http_uppercaserer.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/http_uppercaserer.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\juggling_async.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/juggling_async.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\my_first_async_io.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/my_first_async_io.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\test.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/test.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\test111.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/test111.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\test_http_client.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/test_http_client.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\test_modules.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/test_modules.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\testprocess.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/testprocess.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\time_server.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/time_server.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\time_server_request.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/time_server_request.js" />
-      <change type="MOVED" beforePath="D:\WebStorm9.0.2\learnnode\test_learn_you_node\发起一个post请求.js" afterPath="$PROJECT_DIR$/networkprogram/test_learn_you_node/发起一个post请求.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -103,80 +61,40 @@
     <favorites_list name="untitled" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="网络编程.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/网络编程/网络编程.md">
-          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-            <state />
-          </provider>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="http.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version3/http.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.866667">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/网络编程/log.md">
-          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.366667">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="https简介.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/网络编程/https简介.md">
-          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
-            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tls.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/网络编程/tls.md">
-          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="5.3">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
+      <file leaf-file-name="Buffer.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/进击Node.js基础(二)/Buffer.md">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.24032043">
+                <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="http.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version2/http.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="3" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -187,6 +105,7 @@
       <list>
         <option value="ejs" />
         <option value="package_json" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -197,18 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="http.js" />
-        <option value="net.js" />
-        <option value="$PROJECT_DIR$/routes/index.js" />
-        <option value="$PROJECT_DIR$/test/http_uppercaserer.js" />
-        <option value="$PROJECT_DIR$/test/发起一个post请求.js" />
-        <option value="$PROJECT_DIR$/test/test_modules.js" />
-        <option value="$PROJECT_DIR$/public/txt/test_http_file_server.txt" />
-        <option value="$PROJECT_DIR$/test/my_first_async_io.js" />
-        <option value="$PROJECT_DIR$/test/test.js" />
-        <option value="$PROJECT_DIR$/test/time_server_request.js" />
-        <option value="$PROJECT_DIR$/test/time_server.js" />
-        <option value="$PROJECT_DIR$/test/test111.js" />
         <option value="$PROJECT_DIR$/test/juggling_async.js" />
         <option value="$PROJECT_DIR$/test_how_to_npm/01_install_npm" />
         <option value="$PROJECT_DIR$/test_how_to_npm/install_npm_01.js" />
@@ -243,15 +150,30 @@
         <option value="$PROJECT_DIR$/测试/test.js" />
         <option value="$PROJECT_DIR$/i18n/index.js" />
         <option value="$PROJECT_DIR$/docs/tls.md" />
-        <option value="$PROJECT_DIR$/docs/网络编程/tls.md" />
         <option value="$PROJECT_DIR$/https_example/demo/TLS_Server/TLS_Server.js" />
         <option value="$PROJECT_DIR$/docs/网络编程/网络编程.md" />
         <option value="$PROJECT_DIR$/docs/网络编程/log.md" />
         <option value="$PROJECT_DIR$/docs/网络编程/https简介.md" />
+        <option value="$PROJECT_DIR$/../crystalwm.github.io/index.html" />
+        <option value="$PROJECT_DIR$/docs/网络编程/tls.md" />
+        <option value="$PROJECT_DIR$/asyncprogramming/异步编程的原因/callback.html" />
+        <option value="$PROJECT_DIR$/asyncprogramming/异步编程的原因/promise.html" />
+        <option value="$PROJECT_DIR$/imooc/进击NodeJS基础2/https.js" />
+        <option value="$PROJECT_DIR$/networkprogram/https_example/demo/TLS_Server/TLS_Server.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/cheerio/demo1.js" />
+        <option value="$PROJECT_DIR$/docs/进击Node.js基础(二)/笔记.md" />
+        <option value="$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version1/http.js" />
+        <option value="$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version2/http.js" />
+        <option value="$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version3/http.js" />
+        <option value="$PROJECT_DIR$/docs/进击Node.js基础(二)/Buffer.md" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <gulpfiles>
@@ -278,17 +200,12 @@
       </GulpfileState>
     </gulpfiles>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="NodeJsMochaPackageDirSetting">
     <data>C:\Program Files\nodejs\node_global\node_modules\mocha</data>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -336,6 +253,8 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scratches" />
@@ -354,7 +273,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="learnnode" />
+              <option name="myItemId" value="learnyounode_nodeschool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,11 +283,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="learnnode" />
+              <option name="myItemId" value="learnyounode_nodeschool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
+              <option name="myItemId" value="测试" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -378,15 +297,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="learnnode" />
+              <option name="myItemId" value="learnyounode_nodeschool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learnyounode_nodeschool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="网络编程" />
+              <option name="myItemId" value="test_how_to_async" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -403,38 +332,41 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
+    <property name="FullScreen" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imooc/进击NodeJS基础2" />
+      <recent name="$PROJECT_DIR$/imooc" />
+      <recent name="D:\WebStorm9.0.2\learnnode\networkprogram" />
+      <recent name="D:\WebStorm9.0.2\learnnode\测试" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WebStorm9.0.2\learnnode\https_example\demo\TLS_Server\keys" />
       <recent name="D:\WebStorm9.0.2\learnnode\docs\网络编程\img" />
       <recent name="D:\WebStorm9.0.2\learnnode\docs\网络编程" />
       <recent name="D:\WebStorm9.0.2\learnnode\stream-adventure" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\WebStorm9.0.2\learnnode\networkprogram" />
-      <recent name="D:\WebStorm9.0.2\learnnode\测试" />
-    </key>
   </component>
-  <component name="RunManager" selected="Node.js.TLS_Server.js">
-    <configuration default="false" name="web-file.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="web-file.js" working-dir="$PROJECT_DIR$/测试/test">
+  <component name="RunManager" selected="Node.js.http.js (2)">
+    <configuration default="false" name="TLS_Server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="TLS_Server.js" working-dir="$PROJECT_DIR$/networkprogram/https_example/demo/TLS_Server">
       <method />
     </configuration>
-    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/测试">
+    <configuration default="false" name="http.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="http.js" working-dir="$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version1">
       <method />
     </configuration>
-    <configuration default="false" name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/i18n">
+    <configuration default="false" name="demo1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="demo1.js" working-dir="$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/cheerio">
       <method />
     </configuration>
-    <configuration default="false" name="TLS_Server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/networkprogram/https_example/demo/TLS_Server/TLS_Server.js" working-dir="$PROJECT_DIR$/networkprogram/https_example/demo/TLS_Server">
+    <configuration default="false" name="http.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="http.js" working-dir="$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version2">
       <method />
     </configuration>
-    <configuration default="false" name="serve.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example/serve.js" working-dir="$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example">
+    <configuration default="false" name="http.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="http.js" working-dir="$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version3">
       <method />
     </configuration>
     <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
@@ -446,7 +378,7 @@
     <configuration default="true" type="DartRemoteDebugConfigurationType" factoryName="Dart Remote Debug">
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptNodeJsTraceType" factoryName="Spy-js for Node.js" config="" node="C:/Program Files/nodejs/node.exe" node-params="" app="" app-params="" working-dir="$PROJECT_DIR$" proxy-port="3547" pass-parent-env="true" limits="1,3,3,50">
@@ -461,13 +393,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
@@ -529,6 +454,12 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="meteor-app-runner" factoryName="Meteor">
       <option name="startBrowserSettings">
         <browser url="http://localhost:3000" />
@@ -547,6 +478,7 @@
       <envs />
       <ui>bdd</ui>
       <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
       <test-directory />
       <recursive>false</recursive>
       <method />
@@ -558,6 +490,7 @@
       <envs />
       <ui>bdd</ui>
       <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
       <test-directory>$PROJECT_DIR$/测试/test</test-directory>
       <recursive>false</recursive>
       <method />
@@ -573,19 +506,19 @@
       <item index="1" class="java.lang.String" itemvalue="Node.js.bin\www" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.my-conf" />
       <item index="3" class="java.lang.String" itemvalue="Spy-js.spyjs" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.web-file.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.index.js" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.TLS_Server.js" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.serve.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.TLS_Server.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.http.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.demo1.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.http.js (1)" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.http.js (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.TLS_Server.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.serve.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.index.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.web-file.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.http.js (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.http.js (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.http.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.demo1.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.TLS_Server.js" />
       </list>
     </recent_temporary>
     <configuration default="true" type="NodeWebKit" factoryName="Node-webkit">
@@ -644,53 +577,54 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.234375" sideWeight="0.13703099" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20535715" sideWeight="0.862969" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21069182" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27895597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36335403" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.234375" sideWeight="0.13703099" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.286117" sideWeight="0.862969" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36298078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21069182" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46754807" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21069182" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27895597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.234375" sideWeight="0.13703099" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20547946" sideWeight="0.862969" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36335403" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36335403" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.234375" sideWeight="0.13703099" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20547946" sideWeight="0.862969" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21069182" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27895597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -731,8 +665,18 @@
           <line>20</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version1/http.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version1/http.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
@@ -743,6 +687,19 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/网络编程/tls.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/networkprogram/http协议/url_test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05930807">
@@ -775,13 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.3877552">
           <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1356467">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -953,13 +903,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example/node_modules/express/lib/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43341404">
-          <caret line="544" column="27" selection-start-line="544" selection-start-column="23" selection-end-line="544" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/i18n/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36561742">
@@ -977,43 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example/README.md">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5578358">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example/certs/server/my-server.key.pem">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example/certs/server/my-server.crt.pem">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/networkprogram/https_example/demo/TLS_Server/keys/ca/my-root-ca.crt.pem">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1021,53 +927,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example/bin/create-server-certs.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4474708">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example/bin/create-root-ca.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24861878">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example/serve.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.54642475">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2945571">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/demo/TLS_Server/TLS_Server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74657536">
-          <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/networkprogram/test_learn_you_node/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27568492">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1075,15 +938,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3938356">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/src/nodejs-ssl-example/bin/sign-csr.sh">
+    <entry file="file://$PROJECT_DIR$/test_how_to_npm/install_npm_01.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4964029">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="12" />
-          <folding />
+        <state vertical-scroll-proportion="0.07462686">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crystalwm.github.io/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12749004">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1091,50 +959,23 @@
       <provider editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.020026702">
+            <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="5.3">
           <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/网络编程/log.md">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.366667">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/网络编程/网络编程.md">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.866667">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
     </entry>
@@ -1142,17 +983,158 @@
       <provider editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
       </provider>
+      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/网络编程/log.md">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.366667">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/网络编程/网络编程.md">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.866667">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc/进击NodeJS基础2/asyncprogramming/异步编程的原因/promise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9807692">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc/进击NodeJS基础2/asyncprogramming/异步编程的原因/callback.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8076923">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="52" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/进击Node.js基础(二)/笔记.md">
       <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.7718121">
+            <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version1/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20517929">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networkprogram/https_example/demo/TLS_Server/TLS_Server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1494024">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/cheerio/demo1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2988048">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28242677">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version2/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc/进击NodeJS基础2/crawler_imooc/version3/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/进击Node.js基础(二)/Buffer.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.24032043">
+            <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
       </provider>
     </entry>
   </component>
